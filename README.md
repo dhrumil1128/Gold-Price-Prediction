@@ -1,5 +1,3 @@
-# Gold-Price-Prediction
-Gold Price Prediction Using Artificial Neural Networks (ANN)
 # Gold Price Prediction Using Artificial Neural Networks (ANN)  
 
 This project implements a **Gold Price Prediction** model using **Artificial Neural Networks (ANN)**. Gold prices are influenced by various economic factors like currency exchange rates, inflation, and geopolitical events. This model leverages historical data and financial indicators to accurately predict future gold prices.  
@@ -18,5 +16,5 @@ This project implements a **Gold Price Prediction** model using **Artificial Neu
 
 ## Installation and Setup  
 1. Clone the repository:  
-   ```bash  
+   ```bash   
    git clone https://github.com/your-username/gold-price-prediction.git  
